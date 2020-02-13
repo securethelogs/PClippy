@@ -13,7 +13,7 @@ Download the script and edit the following lines:
 - Line 59: Name of your Paste. Make sure it's unique so you can easily search for it.
 - Line 79: If you wish to extend the timer past 5 seconds. 
 
-For more information, read my site post here: https://securethelogs.com/2020/02/13/stealing-from-copy-and-paste/
+For more information, read my site post here: https://securethelogs.com/2020/02/13/stealing-passwords-from-clipboard/
 
 
 *Please only use this for testing and not for malicious purposes
