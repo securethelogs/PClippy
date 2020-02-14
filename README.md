@@ -15,6 +15,9 @@ Download the script and edit the following lines:
 
 For more information, read my site post here: https://securethelogs.com/2020/02/13/stealing-passwords-from-clipboard/
 
+To show how it would work if not hidden....
+
+![Securethelogs.com](https://ctrla1tdel.files.wordpress.com/2020/02/verbose-1.gif)
 
 *Please only use this for testing and not for malicious purposes
 
